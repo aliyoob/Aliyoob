@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m Alireza Derakhshan<br>👀 I’m interested in JS and PHP, Don't tell anyone these days i learning AI with Py<br>🌱 I’m currently learning Backend & AI<br>📫 It's my email and phone number ⬇⬇⬇⬇<br>email: me@alireza.pro <br> phone number: +1(331)642-0822<br>My website: https://Alireza.pro
- 
+  
  
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aliyoob#6451) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alirezadraa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/aliyoob) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/alirezadraa) 
