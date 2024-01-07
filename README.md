@@ -1,5 +1,5 @@
 # 💫 About Me: 
-👋 Hi, I’m Alireza Derakhshan<br>👀 I’m interested in JS and PHP, Don't tell anyone these days i learning AI<br>🌱 I’m currently improving my Nextjs <br>📫 It's my email and phone number ⬇⬇⬇⬇<br>email: me@alireza.pro <br> phone number: +1(331)642-0822<br>My website: https://Alireza.pro
+👋 Hi, I’m Alireza Derakhshan<br>👀 I’m interested in JS and PHP, Don't tell anyone these days i learning AI<br>🌱 I’m currently improving my Nextjs <br>📫 It's my email and phone number ⬇⬇⬇⬇<br>email: me@alireza.pro <br> phone number: +1(331)642-0822<br>My website: https://Alireza.pro 
    
   
 ## 🌐 Socials:
