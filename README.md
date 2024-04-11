@@ -1,7 +1,7 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 # 💫 About Me:
 👋 Hi, I’m Alireza Derakhshan<br>👀 I’m interested in AI & ML<br>🌱 I’m currently improving my Nextjs<br>📫 It's my email and phone number ⬇⬇⬇⬇<br>email: alirezadraa@gmail.com<br>phone number: +1(331)642-0822 , +989904253420
- 
+   
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alirezadraa) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/alirezadra)  
 
